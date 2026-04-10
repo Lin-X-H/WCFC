@@ -46,7 +46,7 @@ WCFC/
 ### Clone
 Clone this project to your local machine:
 ```
-git clone https://github.com/Lin-X-H/ReProduce_WST-CAA.git
+git clone https://github.com/Lin-X-H/WCFC.git
 cd WCFC
 ```
 > [!NOTE]
